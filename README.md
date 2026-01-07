@@ -2,7 +2,8 @@
 
 Official legal documents for the MinteCalc mobile application.
 
-🌐 **Live Site:** [https://legal.mintecalc.com](https://legal.mintecalc.com)
+🌐 **Live Site:** [https://legal.mintecalc.com](https://legal.mintecalc.com)  
+📂 **Repository:** [github.com/mosopia-developer/mintecalc-legal](https://github.com/mosopia-developer/mintecalc-legal)
 
 ## Documents
 
