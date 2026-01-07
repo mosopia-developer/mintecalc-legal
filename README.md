@@ -23,20 +23,4 @@ MinteCalc is a mobile calculator application available on iOS and Android.
 **Email:** support@mintecalc.com  
 **Website:** https://mintecalc.com
 
----
-
-## Deployment
-
-This repository is configured for GitHub Pages with custom domain `legal.mintecalc.com`.
-
-After pushing to GitHub:
-
-1. Go to **Settings → Pages**
-2. Under "Source", select **Deploy from a branch**
-3. Choose **main** branch and **/ (root)** folder
-4. Click **Save**
-5. The custom domain should auto-configure from the CNAME file
-
----
-
 *Last Updated: January 7, 2026*
