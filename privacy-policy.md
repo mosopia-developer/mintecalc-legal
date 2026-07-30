@@ -171,7 +171,7 @@ We implement reasonable security measures to protect your information from unaut
 
 - **Local Data (on your device):** Stored until you clear the App's storage or uninstall the App.
 - **Google Drive Backup (optional):** Stored in your personal Google Drive account until you delete it using the **"Delete Data & Sign Out"** option in the App (Settings → Backup & Restore), or remove the App's access at [https://myaccount.google.com/permissions](https://myaccount.google.com/permissions).
-- **Firebase Authentication Record (email, name, photo URL, UID):** Retained while you remain signed in or until deletion. See our [Account & Data Deletion](account-deletion) page for how to have it deleted.
+- **Firebase Authentication Record (email, name, photo URL, UID):** Retained while you remain signed in. Deleted when you use **"Delete Data & Sign Out"** in the App (version 1.1.39 or later), or on request — see our [Account & Data Deletion](account-deletion) page.
 - **Analytics & Crash Data:** Retained by Firebase Analytics and Crashlytics according to their standard retention periods, after which it is deleted or aggregated.
 - **Purchase Records:** Retained by the app stores and RevenueCat as needed to maintain your entitlement (e.g., to restore purchases on a new device) and to meet legal/accounting obligations.
 

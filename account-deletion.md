@@ -19,7 +19,7 @@ MinteCalc does **not** create username/password accounts, and we do **not** stor
 |-----------|-------------------|------------------|
 | Calculations, notes, settings | Your device (local storage) | You |
 | Backup data (optional) | Your Google Drive (`appDataFolder`) | You |
-| Sign-in record (email, name, profile photo URL, user ID) | Firebase Authentication (our app's Google-hosted project) | Us — deletable on request, see Step 3 |
+| Sign-in record (email, name, profile photo URL, user ID) | Firebase Authentication (our app's Google-hosted project) | You — deleted in-app via "Delete Data & Sign Out" (see Step 3) |
 | Google credentials (password) | Google's servers (OAuth) | Google |
 | Payment info | Apple App Store / Google Play Store | Apple/Google |
 | Purchase entitlement record (anonymous ID + receipt) | RevenueCat | Us via RevenueCat — deletable on request |
@@ -53,8 +53,11 @@ If you used the Backup & Restore feature, MinteCalc stores backup data in your G
 ### What Happens:
 
 ✅ Your MinteCalc backup file(s) are **permanently deleted** from your Google Drive `appDataFolder`  
+✅ Your **sign-in record** (email, name, profile photo URL, user ID) is **permanently deleted** from Firebase Authentication (MinteCalc 1.1.39 or later — see Step 3 for older versions)  
 ✅ You are **signed out** of Google within MinteCalc  
 ✅ Deletion is **immediate** — it happens instantly via Google's infrastructure  
+
+> **Security note:** if your sign-in session is old, the app may briefly ask you to re-select your Google account to confirm your identity before the sign-in record is deleted.
 
 > **Note:** After signing out, backup/restore features will be unavailable until you sign in again. An internet connection is required for this step.
 
@@ -83,7 +86,9 @@ The "Delete Data & Sign Out" button removes your **cloud backup** and signs you 
 
 When you sign in with Google, an authentication record (your email address, display name, profile photo URL, and a unique user ID) is created in our app's Firebase Authentication system so you stay signed in across app launches.
 
-**To have this record permanently deleted**, email us:
+**On MinteCalc 1.1.39 or later**, this record is deleted **automatically** when you use **"Delete Data & Sign Out"** (Step 1) — no further action is needed.
+
+**On older app versions, or if you cannot access the app**, email us instead:
 
 - Email: **support@mintecalc.com**
 - Subject: **MinteCalc account deletion request**
@@ -125,7 +130,7 @@ We will respond within **30 days**.
 |------|---------------|-------|
 | Cloud backup (Google Drive) | **"Delete Data & Sign Out"** | In-app: Settings → Backup & Restore |
 | Local app data | Clear app storage or uninstall | Your device settings |
-| Sign-in record (Firebase Authentication) | Email us — deleted within 30 days | support@mintecalc.com |
+| Sign-in record (Firebase Authentication) | **"Delete Data & Sign Out"** (app 1.1.39+), or email us — deleted within 30 days | In-app, or support@mintecalc.com |
 | Purchase entitlement record (RevenueCat, anonymous) | Included in the deletion request above | support@mintecalc.com |
 | Google OAuth permission | [Google Account Permissions](https://myaccount.google.com/permissions) | Google |
 | Payment/subscription records | Managed by the app stores | Apple App Store / Google Play |
