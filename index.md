@@ -22,7 +22,7 @@ Welcome to the official legal documentation for **MinteCalc** — the all-in-one
 
 ✅ **"Sign in with Google" is not account creation.** It's Google's own sign-in, and it exists for exactly one purpose: backing up your **calculation history, notes, and settings** to a private, hidden folder in **your own Google Drive**. We never see your password, and the app cannot read anything else in your Drive.
 
-✅ **We store almost nothing.** The only trace on our side is the minimal sign-in reference Google provides (email, name, profile photo) that keeps you signed in between launches — and the app deletes it the moment you tap **"Delete Data & Sign Out"** (app version 1.1.39 or later).
+✅ **We store nothing ourselves.** MinteCalc operates no servers. If you sign in, Google keeps a minimal sign-in reference (email, name, profile photo) on its own infrastructure so you stay signed in — and the app removes it the moment you tap **"Delete Data & Sign Out."**
 
 ✅ **You're always in control.** Delete your backup, remove your sign-in record, and sign out — all from inside the app, in one tap. See the [deletion page](account-deletion) for every option, including what to do if you no longer have the app installed.
 
