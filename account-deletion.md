@@ -57,8 +57,6 @@ If you used the Backup & Restore feature, MinteCalc stores backup data in your G
 ✅ You are **signed out** of Google within MinteCalc  
 ✅ Deletion is **immediate** — it happens instantly via Google's infrastructure  
 
-> **Security note:** if your sign-in session is old, the app may briefly ask you to re-select your Google account to confirm your identity before the sign-in reference is deleted.
-
 > **Note:** After signing out, backup/restore features will be unavailable until you sign in again. An internet connection is required for this step.
 
 ---
