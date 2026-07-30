@@ -86,9 +86,9 @@ The "Delete Data & Sign Out" button removes your **cloud backup** and signs you 
 
 MinteCalc has **no servers of its own and stores nothing itself**. When you use "Sign in with Google," Google's Firebase Authentication service keeps a minimal sign-in reference — your email address, display name, profile photo URL, and a unique user ID — on **Google's infrastructure**, purely so you stay signed in between app launches. We never see your password, and this reference is never used for anything else.
 
-**On the latest version of MinteCalc**, this reference is removed **automatically** when you tap **"Delete Data & Sign Out"** (Step 1) — no further action is needed.
+This reference is removed **automatically** when you tap **"Delete Data & Sign Out"** (Step 1) — no further action is needed.
 
-**On older versions, or if you no longer have the app installed**, email us and we will remove it for you:
+You can also request removal by email at any time, without needing the app installed:
 
 - Email: **support@mintecalc.com**
 - Subject: **MinteCalc account deletion request**
