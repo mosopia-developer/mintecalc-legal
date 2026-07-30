@@ -9,7 +9,7 @@
 
 ---
 
-This page explains how to delete your MinteCalc data, your optional sign-in record, and any associated access. It applies to the MinteCalc app on both Android (Google Play) and iOS (App Store).
+This page explains how to delete your MinteCalc data, your optional sign-in reference, and any associated access. It applies to the MinteCalc app on both Android (Google Play) and iOS (App Store).
 
 ## What Data Exists, and Where
 
@@ -30,13 +30,13 @@ MinteCalc does **not** create username/password accounts and has **no servers of
 
 ### Users Who Never Signed In with Google
 
-If you have **never signed in with Google** for Backup & Restore, MinteCalc has **no cloud data and no sign-in record** associated with you. Your data exists only on your device.
+If you have **never signed in with Google** for Backup & Restore, MinteCalc has **no cloud data and no sign-in reference** associated with you. Your data exists only on your device.
 
 **To delete your data:** Simply clear the app's storage or uninstall MinteCalc (see Step 2 below).
 
 ### Users Who Signed In with Google (Backup & Restore)
 
-If you **have** signed in with Google, two things exist: your backup data (in your own Google Drive) and a sign-in record (in Firebase Authentication). Steps 1 and 3 below cover both.
+If you **have** signed in with Google, two things exist: your backup data (in your own Google Drive) and a sign-in reference (in Firebase Authentication). Steps 1 and 3 below cover both.
 
 ---
 
@@ -57,7 +57,7 @@ If you used the Backup & Restore feature, MinteCalc stores backup data in your G
 ✅ You are **signed out** of Google within MinteCalc  
 ✅ Deletion is **immediate** — it happens instantly via Google's infrastructure  
 
-> **Security note:** if your sign-in session is old, the app may briefly ask you to re-select your Google account to confirm your identity before the sign-in record is deleted.
+> **Security note:** if your sign-in session is old, the app may briefly ask you to re-select your Google account to confirm your identity before the sign-in reference is deleted.
 
 > **Note:** After signing out, backup/restore features will be unavailable until you sign in again. An internet connection is required for this step.
 
@@ -137,5 +137,5 @@ We will respond within **30 days**.
 
 ### Data We Retain After Deletion
 
-- **Analytics and crash data** already collected by Firebase Analytics/Crashlytics is retained per their standard retention periods and is not linked back to you after your sign-in record is deleted.
+- **Analytics and crash data** already collected by Firebase Analytics/Crashlytics is retained per their standard retention periods and is not linked back to you after your sign-in reference is deleted.
 - **Purchase records at the app stores** are controlled by Apple/Google and their retention rules; we cannot delete these.

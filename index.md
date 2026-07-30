@@ -10,7 +10,7 @@ Welcome to the official legal documentation for **MinteCalc** — the all-in-one
 |----------|-------------|
 | [Privacy Policy](privacy-policy) | How we collect, use, and protect your information |
 | [Terms and Conditions](terms-and-conditions) | Rules and guidelines for using MinteCalc |
-| [Account & Data Deletion](account-deletion) | How to delete your data, sign-in record, and revoke access |
+| [Account & Data Deletion](account-deletion) | How to delete your data, sign-in reference, and revoke access |
 
 ---
 

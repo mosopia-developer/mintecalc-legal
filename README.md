@@ -11,7 +11,7 @@ Official legal documents for the MinteCalc mobile application.
 |----------|-------------|
 | [Privacy Policy](privacy-policy.md) | How we collect, use, and protect your information |
 | [Terms and Conditions](terms-and-conditions.md) | Rules and guidelines for using MinteCalc |
-| [Account & Data Deletion](account-deletion.md) | How to delete your data, sign-in record, and revoke access |
+| [Account & Data Deletion](account-deletion.md) | How to delete your data, sign-in reference, and revoke access |
 
 ## About MinteCalc
 
