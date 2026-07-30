@@ -1,6 +1,6 @@
 # Terms and Conditions
 
-**Last Updated:** January 7, 2026
+**Last Updated:** July 30, 2026
 
 **App Name:** MinteCalc  
 **Company:** 3MD FAMILY (PTY) LTD  
@@ -41,6 +41,7 @@ You agree not to:
 - Remove, alter, or obscure any proprietary notices in the App.
 - Use the App in any manner that could damage, disable, overburden, or impair the App.
 - Use automated systems, bots, or scripts to access or interact with the App.
+- Circumvent, or attempt to circumvent, advertising, rewarded-unlock timers, or purchase entitlement checks.
 
 ---
 
@@ -64,7 +65,7 @@ While we strive for accuracy, **we do not guarantee that all calculations, resul
 
 **IMPORTANT:** The currency conversion feature is provided **for informational and reference purposes only**. It is **NOT** intended for use in financial transactions, trading, investment decisions, or any situation where accurate real-time exchange rates are required.
 
-- **Data Source:** Currency exchange rates are obtained from third-party providers and are updated periodically (approximately every hour). Rates may be delayed, inaccurate, or unavailable at times.
+- **Data Source:** Currency exchange rates are obtained from third-party providers and updated periodically. When your device is offline, the App may display previously cached rates. Rates may be delayed, inaccurate, or unavailable at times.
 - **No Financial Advice:** Currency conversion results do **not** constitute financial advice, trading recommendations, or endorsements of any kind.
 - **No Warranty:** We make **no representations or warranties** regarding the accuracy, completeness, timeliness, or reliability of any exchange rate data.
 - **Your Responsibility:** Always verify exchange rates with official financial institutions, banks, or licensed currency exchange services before making any financial decisions or transactions.
@@ -82,20 +83,21 @@ The calculator functions (standard, scientific, and note-based calculations) are
 
 ---
 
-## 6. Google Drive Integration
+## 6. Google Sign-In and Google Drive Integration
 
 ### 6.1 Backup and Restore
 
 The App provides the ability to back up and restore your User Content to your personal Google Drive account. By using this feature, you agree to the following:
 
-- **Authorization:** You authorize the App to access your Google Drive solely for the purpose of creating, reading, and restoring backup files.
-- **User Responsibility:** You are solely responsible for managing your Google Drive account, including its security and storage limits. We are not responsible for any data loss, corruption, or unauthorized access to your Google Drive account.
+- **Authorization:** You authorize the App to access your Google Drive **solely** within its hidden application data folder (`appDataFolder`) for the purpose of creating, reading, and deleting backup files. The App cannot access any other files in your Google Drive.
+- **Sign-In Record:** Signing in with Google creates an authentication record (email address, display name, profile photo URL, and a unique user ID) via Firebase Authentication, used to keep you signed in. See our [Privacy Policy](privacy-policy) and [Account & Data Deletion](account-deletion) pages.
+- **User Responsibility:** You are solely responsible for managing your Google account, including its security and storage limits. We are not responsible for any data loss, corruption, or unauthorized access to your Google Drive account.
 - **No Liability:** We are not liable for any issues arising from the Google Drive integration, including but not limited to sync failures, data loss, or Google service interruptions.
 - **Google Terms:** Your use of Google Drive is subject to [Google's Terms of Service](https://policies.google.com/terms) and [Privacy Policy](https://policies.google.com/privacy).
 
 ### 6.2 Data Privacy
 
-We do not have access to your Google account credentials. The App only accesses data necessary for the backup and restore functionality. For more information, please review our [Privacy Policy](privacy-policy).
+We do not have access to your Google account credentials. The App only accesses data necessary for the backup and restore functionality, in accordance with the Google API Services User Data Policy (including its Limited Use requirements). For more information, please review our [Privacy Policy](privacy-policy).
 
 ---
 
@@ -110,29 +112,42 @@ The App offers premium features through in-app purchases, including:
 
 ### 7.2 Payment Processing
 
-All payments are processed through the respective app store (Apple App Store or Google Play Store). By making a purchase, you agree to the payment terms of the applicable app store. We do not directly collect or store your payment information.
+All payments are processed through the respective app store (Apple App Store or Google Play Store). By making a purchase, you agree to the payment terms of the applicable app store. We do not directly collect or store your payment information. Purchase validation and entitlement management are performed by RevenueCat (see Section 9).
 
 ### 7.3 Subscription Terms
 
-- **Renewal:** Subscriptions automatically renew at the end of each billing period unless canceled.
-- **Cancellation:** You may cancel your subscription at any time through your app store account settings. Cancellation will take effect at the end of the current billing period.
-- **No Refunds:** Except as required by applicable law or app store policies, all purchases are final and non-refundable.
+- **Renewal:** Subscriptions automatically renew at the end of each billing period unless canceled at least 24 hours before the end of the current period.
+- **Cancellation:** You may cancel your subscription at any time through your app store account settings (Apple: Settings → Apple ID → Subscriptions; Google: Play Store → Payments & subscriptions). Cancellation takes effect at the end of the current billing period.
+- **Restore:** You can restore previous purchases on a new or reset device using the "Restore Purchases" option in the App.
+- **Billing Issues and Grace Periods:** If a renewal payment fails, the app store may enter a grace period during which you retain access while the store retries payment. Access ends if payment ultimately fails.
+- **No Refunds:** Except as required by applicable law or app store policies, all purchases are final and non-refundable. Refund requests must be directed to the applicable app store.
 
 ### 7.4 Price Changes
 
-We reserve the right to change subscription prices at any time. Price changes will take effect at the start of the next subscription period following the date of the price change. Your continued use of the Pro features after a price change constitutes your acceptance of the new price.
+We reserve the right to change subscription prices at any time. Price changes will take effect at the start of the next subscription period following the date of the price change, subject to the applicable app store's notice and consent requirements. Your continued use of the Pro features after a price change constitutes your acceptance of the new price.
 
 ### 7.5 Pro Features
 
-Pro users enjoy an ad-free experience and access to additional premium features. The specific features included in the Pro Upgrade may change over time.
+Pro users enjoy an ad-free experience and access to additional premium features (for example: backup & restore, custom app icon, additional currency and personalization options). The specific features included in the Pro Upgrade may change over time.
 
 ---
 
-## 8. Advertisements
+## 8. Advertisements and Rewarded Ads
 
-The free version of the App displays advertisements powered by Google AdMob. By using the free version of the App, you consent to receiving such advertisements. Advertisements may be personalized based on your interests and usage patterns, as described in our [Privacy Policy](privacy-policy).
+### 8.1 Advertisements
+
+The free version of the App displays advertisements powered by Google AdMob. By using the free version of the App, you consent to receiving such advertisements. Advertisements may be personalized based on your interests and usage patterns, as described in our [Privacy Policy](privacy-policy). On iOS, personalization using your advertising identifier occurs only with your permission via Apple's App Tracking Transparency prompt.
 
 You can opt out of personalized advertising by adjusting your device settings or visiting [Google's Ads Settings](https://adssettings.google.com/).
+
+### 8.2 Rewarded Ads and Temporary Unlocks
+
+Some optional cosmetic features may be temporarily unlocked by voluntarily choosing to watch a rewarded advertisement:
+
+- Rewarded unlocks are **time-limited** and expire automatically after the granted period.
+- Watching a rewarded ad is **not a purchase** and creates no entitlement beyond the stated temporary unlock.
+- The availability, eligible features, and unlock duration of rewarded ads may change or be discontinued at any time without notice.
+- Settings applied during an active unlock may remain after expiry, but new changes to locked options will require a new unlock or a Pro Upgrade.
 
 ---
 
@@ -140,11 +155,15 @@ You can opt out of personalized advertising by adjusting your device settings or
 
 The App integrates with or uses the following third-party services:
 
+- **Firebase Authentication:** For the optional Google sign-in used by Backup & Restore.
 - **Google Analytics for Firebase:** For analytics and usage tracking.
 - **Firebase Crashlytics:** For crash reporting and diagnostics.
-- **Firebase Realtime Database / Firestore:** For delivering currency exchange rate data to the App.
-- **ExchangeRate-API:** Third-party provider of currency exchange rate data ([https://www.exchangerate-api.com](https://www.exchangerate-api.com)). We retrieve exchange rates from this service and make them available through Firebase. We are not responsible for the accuracy, availability, or timeliness of data provided by ExchangeRate-API.
-- **Google AdMob:** For displaying advertisements.
+- **Firebase Cloud Messaging:** For optional push notifications (only if you grant notification permission).
+- **Firebase Remote Config:** For delivering app configuration remotely.
+- **Firebase Hosting:** For delivering currency exchange rate data to the App.
+- **ExchangeRate-API:** Third-party source of currency exchange rate data ([https://www.exchangerate-api.com](https://www.exchangerate-api.com)). We retrieve exchange rates from this service and deliver them through our own hosting. We are not responsible for the accuracy, availability, or timeliness of data provided by ExchangeRate-API.
+- **Google AdMob:** For displaying banner, interstitial, and rewarded advertisements.
+- **RevenueCat:** For in-app purchase validation and subscription entitlement management.
 - **Google Drive API:** For backup and restore functionality.
 - **Apple App Store / Google Play Store:** For app distribution and in-app purchases.
 
@@ -216,7 +235,7 @@ You agree to indemnify, defend, and hold harmless 3MD FAMILY (PTY) LTD, its dire
 
 ### 14.1 Termination by You
 
-You may terminate your use of the App at any time by uninstalling the App and, if applicable, canceling any active subscriptions through your app store account.
+You may terminate your use of the App at any time by uninstalling the App and, if applicable, canceling any active subscriptions through your app store account. You can delete your cloud backup and sign out at any time using **"Delete Data & Sign Out"** in Settings → Backup & Restore; see our [Account & Data Deletion](account-deletion) page for complete deletion steps.
 
 ### 14.2 Termination by Us
 
@@ -230,7 +249,7 @@ Upon termination, your license to use the App will immediately cease. Any provis
 
 ## 15. Changes to Terms
 
-We reserve the right to modify these Terms at any time. We will notify you of any material changes by posting the updated Terms within the App and updating the "Last Updated" date. Your continued use of the App after any changes constitutes your acceptance of the updated Terms.
+We reserve the right to modify these Terms at any time. We will notify you of any material changes by posting the updated Terms at this address and updating the "Last Updated" date. Your continued use of the App after any changes constitutes your acceptance of the updated Terms.
 
 ---
 
@@ -272,6 +291,10 @@ You may not assign or transfer these Terms or your rights under these Terms with
 
 Nothing in these Terms creates any agency, partnership, joint venture, or employment relationship between you and us.
 
+### 17.6 App Store Terms
+
+Your use of the App is also subject to the applicable app store's terms (Apple Media Services Terms / Google Play Terms of Service). For iOS users: these Terms are between you and 3MD FAMILY (PTY) LTD only, not with Apple; Apple has no obligation to provide maintenance or support for the App and is not responsible for any product claims, but Apple and its subsidiaries are third-party beneficiaries of these Terms and may enforce them.
+
 ---
 
 ## 18. Contact Us
@@ -284,4 +307,4 @@ Website: https://mintecalc.com
 
 ---
 
-*These Terms and Conditions are effective as of January 7, 2026.*
+*These Terms and Conditions are effective as of July 30, 2026.*
