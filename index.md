@@ -24,7 +24,7 @@ Welcome to the official legal documentation for **MinteCalc** — the all-in-one
 
 ✅ **We store nothing ourselves.** MinteCalc operates no servers. If you sign in, Google keeps a minimal sign-in reference (email, name, profile photo) on its own infrastructure so you stay signed in — and the app removes it the moment you tap **"Delete Data & Sign Out."**
 
-✅ **You're always in control.** Delete your backup, remove your sign-in record, and sign out — all from inside the app, in one tap. See the [deletion page](account-deletion) for every option, including what to do if you no longer have the app installed.
+✅ **You're always in control.** Delete your backup, remove your sign-in reference, and sign out — all from inside the app, in one tap. See the [deletion page](account-deletion) for every option.
 
 ---
 
