@@ -11,11 +11,11 @@ Official legal documents for the MinteCalc mobile application.
 |----------|-------------|
 | [Privacy Policy](privacy-policy.md) | How we collect, use, and protect your information |
 | [Terms and Conditions](terms-and-conditions.md) | Rules and guidelines for using MinteCalc |
-| [Account & Data Deletion](account-deletion.md) | How to delete your data and revoke access |
+| [Account & Data Deletion](account-deletion.md) | How to delete your data, sign-in record, and revoke access |
 
 ## About MinteCalc
 
-MinteCalc is a mobile calculator application available on iOS and Android.
+MinteCalc is an all-in-one smart calculator, expense notepad & currency/unit converter for iOS and Android. Content stays on the user's device; the optional "Sign in with Google" exists solely to back up calculation history, notes, and settings to the user's own Google Drive.
 
 ## Contact
 
@@ -23,4 +23,4 @@ MinteCalc is a mobile calculator application available on iOS and Android.
 **Email:** support@mintecalc.com  
 **Website:** https://mintecalc.com
 
-*Last Updated: January 7, 2026*
+*Last Updated: July 30, 2026*
