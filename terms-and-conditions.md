@@ -3,7 +3,9 @@
 **Last Updated:** October 5, 2026
 
 **App:** MinteCalc  
-**Company:** 3MD FAMILY (PTY) LTD, South Africa  
+**Company:** 3MD FAMILY (PTY) LTD, a private company registered in South Africa  
+**Registration Number:** 2024/568768/07  
+**Registered Office:** 8 Scholtz Street, Musina, Limpopo, 0900, South Africa  
 **Contact:** support@mintecalc.com  
 **Website:** https://mintecalc.com
 
@@ -221,5 +223,7 @@ If you downloaded the App from Google Play, your use is also subject to the [Goo
 ## 19. Contact Us
 
 **3MD FAMILY (PTY) LTD**  
+Registration Number: 2024/568768/07  
+Registered Office: 8 Scholtz Street, Musina, Limpopo, 0900, South Africa  
 Email: support@mintecalc.com  
 Website: https://mintecalc.com

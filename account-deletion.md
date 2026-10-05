@@ -3,7 +3,7 @@
 **Last Updated:** October 5, 2026
 
 **App:** MinteCalc (iOS and Android)  
-**Developer:** 3MD FAMILY (PTY) LTD  
+**Developer:** 3MD FAMILY (PTY) LTD (Registration Number 2024/568768/07)  
 **Contact:** support@mintecalc.com
 
 ---
