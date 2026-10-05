@@ -1,58 +1,27 @@
 # MinteCalc Legal
 
-Welcome to the official legal documentation for **MinteCalc** — the all-in-one smart calculator, expense notepad & currency/unit converter for iOS and Android.
+Official legal documents for **MinteCalc**, the smart calculator, expense notepad, and currency and unit converter for iOS and Android.
+
+| Document | What it covers |
+|----------|----------------|
+| [Privacy Policy](privacy-policy) | What information the App uses, why, and your choices |
+| [Terms and Conditions](terms-and-conditions) | The rules for using MinteCalc and MinteCalc Pro |
+| [Account and Data Deletion](account-deletion) | How to delete your backup, sign-in reference, and other data |
 
 ---
 
-## Legal Documents
+## Your Privacy at a Glance
 
-| Document | Description |
-|----------|-------------|
-| [Privacy Policy](privacy-policy) | How we collect, use, and protect your information |
-| [Terms and Conditions](terms-and-conditions) | Rules and guidelines for using MinteCalc |
-| [Account & Data Deletion](account-deletion) | How to delete your data, sign-in reference, and revoke access |
-
----
-
-## Quick Facts About Your Privacy
-
-✅ **No MinteCalc account — ever.** There is nothing to register, no password to create, and no profile to fill in. Every feature except cloud backup works without signing in to anything.
-
-✅ **Your content never touches our servers.** Your calculations, notes, and settings live on your device. We have no database of user content — there is nothing for us to read, sell, or lose.
-
-✅ **"Sign in with Google" is not account creation.** It's Google's own sign-in, and it exists for exactly one purpose: backing up your **calculation history, notes, and settings** to a private, hidden folder in **your own Google Drive**. We never see your password, and the app cannot read anything else in your Drive.
-
-✅ **We store nothing ourselves.** MinteCalc operates no servers. If you sign in, Google keeps a minimal sign-in reference (email, name, profile photo) on its own infrastructure so you stay signed in — and the app removes it the moment you tap **"Delete Data & Sign Out."**
-
-✅ **You're always in control.** Delete your backup, remove your sign-in reference, and sign out — all from inside the app, in one tap. See the [deletion page](account-deletion) for every option.
+- **No accounts.** There is nothing to register and no password to create. Every feature except cloud backup works without signing in.
+- **Your content stays with you.** Calculations, notes, and settings are stored on your device. We do not operate servers that hold your content.
+- **Backup goes to your own Google Drive.** If you turn on Backup & Restore, you sign in with Google, and your backup is saved in a private, hidden folder in your own Drive. The App cannot see any of your other files.
+- **Clear about ads and analytics.** The free version shows ads from Google AdMob, and you choose whether ads are personalized where the law requires it. Analytics is turned on only if you allow it. Crash reports help us fix bugs.
+- **Delete everything in one tap.** "Delete Data & Sign Out" removes your backup and sign-in reference. See the [deletion page](account-deletion) for every option.
 
 ---
 
-## About MinteCalc
+## Contact
 
-MinteCalc is built around a simple idea: the everyday math you actually do — shopping totals, quick currency checks, splitting costs, converting units — deserves one fast, beautiful app that respects your privacy.
-
-**What's inside:**
-
-- **Standard & Scientific Calculator** — everyday arithmetic through advanced functions, with a full calculation history you can revisit and reuse
-- **Note Calculator (Expense Notepad)** — list items with a name, price, and quantity and watch totals update as you type; perfect for shopping lists, budgets, and cost splitting
-- **Currency Converter** — world currencies with regularly refreshed rates that keep working offline thanks to smart caching
-- **Unit Converter** — convert measurements across a wide range of unit types
-- **Cloud Backup & Restore** (Pro) — your calculation history, notes, and settings backed up to your own Google Drive and restorable on any device, with selective restore so you choose exactly what comes back
-- **Personalization** — themes, accent colors, display fonts, and custom app icons (iOS)
-
-MinteCalc is free to use with ads. **MinteCalc Pro** — available as a subscription or a one-time lifetime purchase — removes all ads and unlocks the premium features above.
-
-Download on the App Store and Google Play.
-
----
-
-## Contact Us
-
-**Company:** 3MD FAMILY (PTY) LTD  
-**Email:** [support@mintecalc.com](mailto:support@mintecalc.com)  
-**Website:** [https://mintecalc.com](https://mintecalc.com)
-
----
-
-*Last Updated: July 30, 2026*
+**3MD FAMILY (PTY) LTD**  
+Email: [support@mintecalc.com](mailto:support@mintecalc.com)  
+Website: [mintecalc.com](https://mintecalc.com)

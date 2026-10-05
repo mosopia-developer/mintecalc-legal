@@ -1,310 +1,225 @@
 # Terms and Conditions
 
-**Last Updated:** July 30, 2026
+**Last Updated:** October 5, 2026
 
-**App Name:** MinteCalc  
-**Company:** 3MD FAMILY (PTY) LTD  
+**App:** MinteCalc  
+**Company:** 3MD FAMILY (PTY) LTD, South Africa  
 **Contact:** support@mintecalc.com  
 **Website:** https://mintecalc.com
 
 ---
 
-## 1. Agreement to Terms
+## 1. Agreement to These Terms
 
-Welcome to MinteCalc! These Terms and Conditions ("Terms") constitute a legally binding agreement between you ("User," "you," or "your") and 3MD FAMILY (PTY) LTD ("Company," "we," "us," or "our") governing your access to and use of the MinteCalc mobile application (the "App").
+These Terms and Conditions ("Terms") are an agreement between you and 3MD FAMILY (PTY) LTD ("we," "us," or "our") about your use of the MinteCalc mobile application (the "App"). By downloading or using the App, you agree to these Terms. If you do not agree, please do not use the App.
 
-By downloading, installing, accessing, or using the App, you acknowledge that you have read, understood, and agree to be bound by these Terms. If you do not agree to these Terms, you must not download, install, access, or use the App.
+Our [Privacy Policy](privacy-policy) explains how we handle your information and forms part of these Terms.
 
----
-
-## 2. Eligibility
-
-You must be at least 13 years of age (or the applicable age of consent in your jurisdiction) to use the App. By using the App, you represent and warrant that you meet this eligibility requirement. If you are using the App on behalf of an organization, you represent and warrant that you have the authority to bind that organization to these Terms.
+**Your rights as a consumer:** if you are a consumer, the mandatory consumer protection laws of the country where you live still apply to you. Nothing in these Terms takes away rights you have under those laws.
 
 ---
 
-## 3. License Grant
+## 2. Who Can Use the App
 
-Subject to your compliance with these Terms, we grant you a limited, non-exclusive, non-transferable, revocable license to download, install, and use the App on a device that you own or control, solely for your personal, non-commercial purposes.
+You must be at least 13 years old, or the minimum age for using online services in your country if that is higher. If you are under the age of majority where you live (18 in many countries), you may use the App and make purchases only with the permission of a parent or legal guardian.
 
 ---
 
-## 4. Restrictions on Use
+## 3. Your License to Use the App
+
+We give you a personal, limited, non-exclusive, non-transferable, revocable license to install and use the App on devices you own or control, for your own personal use, including in your own work or business. All rights not expressly granted to you are reserved by us.
+
+---
+
+## 4. Acceptable Use
 
 You agree not to:
 
-- Copy, modify, distribute, sell, or lease any part of the App or its content.
-- Reverse engineer, decompile, or disassemble the App, except as permitted by applicable law.
-- Attempt to gain unauthorized access to the App, its servers, or any related systems.
-- Use the App for any illegal, harmful, or unauthorized purpose.
-- Interfere with or disrupt the integrity or performance of the App.
-- Remove, alter, or obscure any proprietary notices in the App.
-- Use the App in any manner that could damage, disable, overburden, or impair the App.
-- Use automated systems, bots, or scripts to access or interact with the App.
-- Circumvent, or attempt to circumvent, advertising, rewarded-unlock timers, or purchase entitlement checks.
+- copy, modify, distribute, sell, or rent the App or any part of it;
+- reverse engineer, decompile, or disassemble the App, except where the law allows it;
+- try to gain unauthorized access to the App or the systems it connects to;
+- use the App for anything illegal or harmful;
+- interfere with or disrupt the App, or use bots or scripts to access it; or
+- get around ads, rewarded unlock timers, or purchase checks.
 
 ---
 
-## 5. User Content and Data
+## 5. Your Content
 
-### 5.1 Your Content
+You own the calculations, notes, and other content you create in the App ("Your Content"). Your Content is stored on your device and, if you choose, in your own Google Drive. We do not claim any rights to it.
 
-You retain ownership of any data, calculations, notes, or other content you create, input, or store within the App ("User Content"). You are solely responsible for your User Content and ensuring that it does not violate any laws or third-party rights.
-
-### 5.2 Data Accuracy
-
-The App is designed to assist with calculations and related functions, including but not limited to:
-- Standard and scientific calculations
-- Note-based calculations (item, price, quantity)
-- Currency conversion
-- Unit conversion
-
-While we strive for accuracy, **we do not guarantee that all calculations, results, currency rates, or outputs will be error-free, accurate, or up-to-date**. You are responsible for verifying any results and should not rely solely on the App for critical decisions, including but not limited to financial, medical, legal, or safety-related decisions.
-
-### 5.3 Currency and Exchange Rate Data
-
-**IMPORTANT:** The currency conversion feature is provided **for informational and reference purposes only**. It is **NOT** intended for use in financial transactions, trading, investment decisions, or any situation where accurate real-time exchange rates are required.
-
-- **Data Source:** Currency exchange rates are obtained from third-party providers and updated periodically. When your device is offline, the App may display previously cached rates. Rates may be delayed, inaccurate, or unavailable at times.
-- **No Financial Advice:** Currency conversion results do **not** constitute financial advice, trading recommendations, or endorsements of any kind.
-- **No Warranty:** We make **no representations or warranties** regarding the accuracy, completeness, timeliness, or reliability of any exchange rate data.
-- **Your Responsibility:** Always verify exchange rates with official financial institutions, banks, or licensed currency exchange services before making any financial decisions or transactions.
-- **No Liability:** We are **not liable** for any financial loss, damages, or decisions made based on the currency conversion feature.
-
-### 5.4 Calculator Disclaimer
-
-The calculator functions (standard, scientific, and note-based calculations) are provided as general-purpose tools. **Results should always be independently verified**, especially for:
-- Financial calculations (taxes, loans, investments, budgeting)
-- Business or commercial purposes
-- Academic or professional work
-- Any situation where errors could result in financial loss or other damages
-
-**We are not responsible for any errors, miscalculations, or damages arising from the use of the calculator features.**
+Please keep your own backups. We are not responsible for loss of Your Content caused by device failure, uninstalling the App, clearing App data, or problems with your Google account.
 
 ---
 
-## 6. Google Sign-In and Google Drive Integration
+## 6. Accuracy of Results
 
-### 6.1 Backup and Restore
+### 6.1 Calculators and Converters
 
-The App provides the ability to back up and restore your User Content to your personal Google Drive account. By using this feature, you agree to the following:
+The App is a general-purpose tool. We work hard to make it accurate, but we do not guarantee that every calculation, conversion, or result will be correct, complete, or suitable for your purpose. **Always check important results yourself**, especially for taxes, loans, investments, business, academic, medical, legal, or safety-related decisions.
 
-- **Authorization:** You authorize the App to access your Google Drive **solely** within its hidden application data folder (`appDataFolder`) for the purpose of creating, reading, and deleting backup files. The App cannot access any other files in your Google Drive.
-- **Sign-In Record:** Signing in with Google creates an authentication record (email address, display name, profile photo URL, and a unique user ID) via Firebase Authentication, used to keep you signed in. See our [Privacy Policy](privacy-policy) and [Account & Data Deletion](account-deletion) pages.
-- **User Responsibility:** You are solely responsible for managing your Google account, including its security and storage limits. We are not responsible for any data loss, corruption, or unauthorized access to your Google Drive account.
-- **No Liability:** We are not liable for any issues arising from the Google Drive integration, including but not limited to sync failures, data loss, or Google service interruptions.
-- **Google Terms:** Your use of Google Drive is subject to [Google's Terms of Service](https://policies.google.com/terms) and [Privacy Policy](https://policies.google.com/privacy).
+### 6.2 Currency Exchange Rates
 
-### 6.2 Data Privacy
+Exchange rates are provided **for general information and reference only**. They come from a third-party provider, are updated periodically rather than in real time, and may be delayed, cached while you are offline, inaccurate, or unavailable. They are not the rates a bank or exchange service will give you.
 
-We do not have access to your Google account credentials. The App only accesses data necessary for the backup and restore functionality, in accordance with the Google API Services User Data Policy (including its Limited Use requirements). For more information, please review our [Privacy Policy](privacy-policy).
+- Do not rely on them for trading, investment, or financial transactions.
+- Nothing in the App is financial, investment, or tax advice.
+- Always confirm rates with your bank or a licensed currency provider before making a transaction.
 
 ---
 
-## 7. In-App Purchases and Subscriptions
+## 7. Google Sign-In and Google Drive Backup
 
-### 7.1 Pro Upgrade
+Backup & Restore is optional. If you use it:
 
-The App offers premium features through in-app purchases, including:
+- you allow the App to create, read, and delete its own backup files in a hidden folder in your Google Drive, and nothing else;
+- Google keeps a minimal sign-in reference (email address, name, profile photo URL, and user ID) so you stay signed in, as described in our [Privacy Policy](privacy-policy);
+- you are responsible for your Google account, including its security and available storage; and
+- your use of Google services is also subject to [Google's Terms of Service](https://policies.google.com/terms).
 
-- **Subscription:** A recurring subscription that provides access to Pro features for the subscription period.
-- **Lifetime Purchase:** A one-time purchase that provides permanent access to Pro features.
-
-### 7.2 Payment Processing
-
-All payments are processed through the respective app store (Apple App Store or Google Play Store). By making a purchase, you agree to the payment terms of the applicable app store. We do not directly collect or store your payment information. Purchase validation and entitlement management are performed by RevenueCat (see Section 9).
-
-### 7.3 Subscription Terms
-
-- **Renewal:** Subscriptions automatically renew at the end of each billing period unless canceled at least 24 hours before the end of the current period.
-- **Cancellation:** You may cancel your subscription at any time through your app store account settings (Apple: Settings → Apple ID → Subscriptions; Google: Play Store → Payments & subscriptions). Cancellation takes effect at the end of the current billing period.
-- **Restore:** You can restore previous purchases on a new or reset device using the "Restore Purchases" option in the App.
-- **Billing Issues and Grace Periods:** If a renewal payment fails, the app store may enter a grace period during which you retain access while the store retries payment. Access ends if payment ultimately fails.
-- **No Refunds:** Except as required by applicable law or app store policies, all purchases are final and non-refundable. Refund requests must be directed to the applicable app store.
-
-### 7.4 Price Changes
-
-We reserve the right to change subscription prices at any time. Price changes will take effect at the start of the next subscription period following the date of the price change, subject to the applicable app store's notice and consent requirements. Your continued use of the Pro features after a price change constitutes your acceptance of the new price.
-
-### 7.5 Pro Features
-
-Pro users enjoy an ad-free experience and access to additional premium features (for example: backup & restore, custom app icon, additional currency and personalization options). The specific features included in the Pro Upgrade may change over time.
+We are not responsible for interruptions or failures of Google's services. You can delete your backup and sign-in reference at any time (see our [Account and Data Deletion](account-deletion) page).
 
 ---
 
-## 8. Advertisements and Rewarded Ads
+## 8. MinteCalc Pro
 
-### 8.1 Advertisements
+### 8.1 What You Get
 
-The free version of the App displays advertisements powered by Google AdMob. By using the free version of the App, you consent to receiving such advertisements. Advertisements may be personalized based on your interests and usage patterns, as described in our [Privacy Policy](privacy-policy). On iOS, personalization using your advertising identifier occurs only with your permission via Apple's App Tracking Transparency prompt.
+MinteCalc Pro removes ads and unlocks premium features, such as Backup & Restore, custom app icons, and extra personalization options. Pro is available as:
 
-You can opt out of personalized advertising by adjusting your device settings or visiting [Google's Ads Settings](https://adssettings.google.com/).
+- **a subscription**, which renews automatically for the period you choose; or
+- **a lifetime purchase**, which is a one-time payment for Pro access for as long as we make the App available.
 
-### 8.2 Rewarded Ads and Temporary Unlocks
+We may improve or change Pro features over time. We will not materially reduce the core Pro benefits you paid for during a paid subscription period.
 
-Some optional cosmetic features may be temporarily unlocked by voluntarily choosing to watch a rewarded advertisement:
+### 8.2 Payments, Renewals, and Cancellation
 
-- Rewarded unlocks are **time-limited** and expire automatically after the granted period.
-- Watching a rewarded ad is **not a purchase** and creates no entitlement beyond the stated temporary unlock.
-- The availability, eligible features, and unlock duration of rewarded ads may change or be discontinued at any time without notice.
-- Settings applied during an active unlock may remain after expiry, but new changes to locked options will require a new unlock or a Pro Upgrade.
+- All payments are processed by the Apple App Store or Google Play under their terms. We never see your card details.
+- **Subscriptions renew automatically** unless you cancel at least 24 hours before the end of the current period. Your app store account is charged for renewal within 24 hours before the period ends.
+- **To cancel**, use your app store's subscription settings (iPhone: Settings → your name → Subscriptions; Android: Google Play → Payments & subscriptions → Subscriptions). Cancellation takes effect at the end of the current period, and you keep Pro until then. Deleting the App does not cancel a subscription.
+- If a renewal payment fails, the app store may give you a grace period while it retries. Pro access ends if payment is not completed.
+- Use **"Restore Purchases"** in the App to get Pro back on a new or reset device.
 
----
+### 8.3 Refunds
 
-## 9. Third-Party Services
+Refunds are handled by Apple or Google under their refund policies, and you can request them directly from the app store. Except where the law or the app store's policy requires a refund, payments are non-refundable.
 
-The App integrates with or uses the following third-party services:
+### 8.4 Price Changes
 
-- **Firebase Authentication:** For the optional Google sign-in used by Backup & Restore.
-- **Google Analytics for Firebase:** For analytics and usage tracking.
-- **Firebase Crashlytics:** For crash reporting and diagnostics.
-- **Firebase Cloud Messaging:** For optional push notifications (only if you grant notification permission).
-- **Firebase Remote Config:** For delivering app configuration remotely.
-- **Firebase Hosting:** For delivering currency exchange rate data to the App.
-- **ExchangeRate-API:** Third-party source of currency exchange rate data ([https://www.exchangerate-api.com](https://www.exchangerate-api.com)). We retrieve exchange rates from this service and deliver them through our own hosting. We are not responsible for the accuracy, availability, or timeliness of data provided by ExchangeRate-API.
-- **Google AdMob:** For displaying banner, interstitial, and rewarded advertisements.
-- **RevenueCat:** For in-app purchase validation and subscription entitlement management.
-- **Google Drive API:** For backup and restore functionality.
-- **Apple App Store / Google Play Store:** For app distribution and in-app purchases.
-
-Your use of these third-party services is subject to their respective terms and privacy policies. We are not responsible for the practices, content, data accuracy, or availability of any third-party services.
+We may change subscription prices. A new price applies only from your next billing period, and Apple or Google will notify you and, where required, ask for your consent first. If you do not agree to a new price, you can cancel before it takes effect.
 
 ---
 
-## 10. Intellectual Property
+## 9. Ads and Rewarded Ads
 
-### 10.1 Our Rights
+The free version of the App shows ads provided by Google AdMob. How ads use your information, and how to change your choices, is explained in our [Privacy Policy](privacy-policy).
 
-The App, including its design, features, code, graphics, logos, and content (excluding User Content), is owned by 3MD FAMILY (PTY) LTD and is protected by copyright, trademark, and other intellectual property laws. All rights not expressly granted to you are reserved.
+Some optional features can be unlocked for a limited time by choosing to watch a rewarded ad:
 
-### 10.2 Trademarks
+- the unlock is temporary and ends automatically;
+- watching an ad is not a purchase and does not give you any lasting right to the feature; and
+- we may change or end rewarded ads, the features they unlock, and the unlock time, at any time.
 
-"MinteCalc," the MinteCalc logo, and any other trademarks, service marks, or trade names used in the App are the property of 3MD FAMILY (PTY) LTD. You may not use our trademarks without our prior written permission.
-
----
-
-## 11. Disclaimer of Warranties
-
-**THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.**
-
-**WE DO NOT WARRANT THAT:**
-
-- **The App will be uninterrupted, timely, secure, or error-free.**
-- **The results obtained from using the App will be accurate or reliable.**
-- **Any defects or errors in the App will be corrected.**
-- **The App will be free from viruses or other harmful components.**
-
-**YOU USE THE APP AT YOUR OWN RISK. ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE APP IS DONE AT YOUR OWN DISCRETION AND RISK.**
+Settings you applied during an unlock may stay in place after it ends, but changing a locked option again needs a new unlock or Pro.
 
 ---
 
-## 12. Limitation of Liability
+## 10. Third-Party Services
 
-**TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL 3MD FAMILY (PTY) LTD, ITS DIRECTORS, EMPLOYEES, PARTNERS, AGENTS, SUPPLIERS, OR AFFILIATES BE LIABLE FOR:**
-
-- **Any indirect, incidental, special, consequential, or punitive damages.**
-- **Any loss of profits, revenue, data, goodwill, or other intangible losses.**
-- **Any damages arising from your use of or inability to use the App.**
-- **Any damages arising from unauthorized access to or alteration of your data.**
-- **Any damages arising from any third-party content or services accessed through the App.**
-- **Any damages arising from any errors, mistakes, or inaccuracies in the App's calculations or output.**
-- **Any financial loss arising from reliance on currency exchange rates, conversion results, or calculator outputs.**
-- **Any damages arising from outdated, delayed, or inaccurate currency data.**
-- **Any decisions made based on information provided by the App, including but not limited to financial, investment, or business decisions.**
-
-**THIS LIMITATION APPLIES WHETHER THE DAMAGES ARISE FROM BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR ANY OTHER LEGAL THEORY, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.**
-
-**SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES, SO SOME OF THE ABOVE LIMITATIONS MAY NOT APPLY TO YOU. IN SUCH CASES, OUR LIABILITY WILL BE LIMITED TO THE FULLEST EXTENT PERMITTED BY LAW.**
-
-**IN NO EVENT SHALL OUR TOTAL LIABILITY TO YOU FOR ALL CLAIMS ARISING FROM OR RELATING TO THE APP EXCEED THE AMOUNT YOU HAVE PAID US IN THE PAST TWELVE (12) MONTHS, OR FIFTY US DOLLARS ($50), WHICHEVER IS GREATER.**
+The App relies on services from third parties, including Google (Firebase, AdMob, Google Sign-In, and Google Drive), RevenueCat, Apple, and our currency rate provider, [ExchangeRate-API](https://www.exchangerate-api.com). Their services are covered by their own terms and privacy policies. We are not responsible for their availability, accuracy, or practices. The full list, and what each one does, is in our [Privacy Policy](privacy-policy).
 
 ---
 
-## 13. Indemnification
+## 11. Intellectual Property and Feedback
 
-You agree to indemnify, defend, and hold harmless 3MD FAMILY (PTY) LTD, its directors, employees, partners, agents, suppliers, and affiliates from and against any and all claims, liabilities, damages, losses, costs, and expenses (including reasonable attorneys' fees) arising from or relating to:
+The App, including its design, code, graphics, and content (but not Your Content), belongs to 3MD FAMILY (PTY) LTD and is protected by intellectual property laws. "MinteCalc" and the MinteCalc logo are our trademarks, and you may not use them without our written permission.
 
-- Your use of the App.
-- Your violation of these Terms.
-- Your violation of any rights of a third party.
-- Your User Content.
+If you send us feedback or suggestions, we may use them to improve the App without any obligation to you.
 
 ---
 
-## 14. Termination
+## 12. Disclaimer of Warranties
 
-### 14.1 Termination by You
+To the fullest extent permitted by law, the App is provided **"as is" and "as available,"** without warranties of any kind, whether express or implied, including warranties of merchantability, fitness for a particular purpose, accuracy, and non-infringement. We do not promise that the App will always be available, uninterrupted, secure, or free of errors, or that every defect will be fixed.
 
-You may terminate your use of the App at any time by uninstalling the App and, if applicable, canceling any active subscriptions through your app store account. You can delete your cloud backup and sign out at any time using **"Delete Data & Sign Out"** in Settings → Backup & Restore; see our [Account & Data Deletion](account-deletion) page for complete deletion steps.
-
-### 14.2 Termination by Us
-
-We reserve the right to suspend or terminate your access to the App at any time, without notice, for any reason, including but not limited to your violation of these Terms.
-
-### 14.3 Effect of Termination
-
-Upon termination, your license to use the App will immediately cease. Any provisions of these Terms that by their nature should survive termination shall survive, including but not limited to Sections 10 (Intellectual Property), 11 (Disclaimer of Warranties), 12 (Limitation of Liability), 13 (Indemnification), and 16 (Governing Law).
+Some countries do not allow certain warranties to be excluded, so some of these exclusions may not apply to you.
 
 ---
 
-## 15. Changes to Terms
+## 13. Limitation of Liability
 
-We reserve the right to modify these Terms at any time. We will notify you of any material changes by posting the updated Terms at this address and updating the "Last Updated" date. Your continued use of the App after any changes constitutes your acceptance of the updated Terms.
+To the fullest extent permitted by law:
 
----
+- we are not liable for any indirect, incidental, special, consequential, or punitive damages, or for any loss of profits, revenue, data, or goodwill;
+- we are not liable for losses caused by relying on calculations, conversions, or exchange rates shown in the App; and
+- our total liability for all claims relating to the App is limited to the greater of the amount you paid us for the App in the 12 months before the claim, or US $50.
 
-## 16. Governing Law and Dispute Resolution
-
-### 16.1 Governing Law
-
-These Terms shall be governed by and construed in accordance with the laws of the Republic of South Africa, without regard to its conflict of law principles.
-
-### 16.2 Dispute Resolution
-
-Any disputes arising from or relating to these Terms or the App shall first be attempted to be resolved through good-faith negotiation. If the dispute cannot be resolved through negotiation, it shall be submitted to binding arbitration in accordance with the laws of the Republic of South Africa.
-
-### 16.3 Class Action Waiver
-
-To the extent permitted by law, you agree that any disputes will be resolved on an individual basis and that you will not bring or participate in any class action, collective action, or representative action against us.
+**Nothing in these Terms limits liability that cannot be limited by law**, including liability for fraud, gross negligence, intentional misconduct, or death or personal injury caused by negligence, and including your rights under mandatory consumer laws (such as South Africa's Consumer Protection Act, or consumer laws in the EU, the UK, Australia, and elsewhere).
 
 ---
 
-## 17. General Provisions
+## 14. Indemnity
 
-### 17.1 Entire Agreement
-
-These Terms, together with our Privacy Policy, constitute the entire agreement between you and 3MD FAMILY (PTY) LTD regarding the App and supersede any prior agreements.
-
-### 17.2 Severability
-
-If any provision of these Terms is found to be unenforceable, the remaining provisions shall continue in full force and effect.
-
-### 17.3 Waiver
-
-Our failure to enforce any right or provision of these Terms shall not constitute a waiver of such right or provision.
-
-### 17.4 Assignment
-
-You may not assign or transfer these Terms or your rights under these Terms without our prior written consent. We may assign or transfer these Terms without restriction.
-
-### 17.5 No Agency
-
-Nothing in these Terms creates any agency, partnership, joint venture, or employment relationship between you and us.
-
-### 17.6 App Store Terms
-
-Your use of the App is also subject to the applicable app store's terms (Apple Media Services Terms / Google Play Terms of Service). For iOS users: these Terms are between you and 3MD FAMILY (PTY) LTD only, not with Apple; Apple has no obligation to provide maintenance or support for the App and is not responsible for any product claims, but Apple and its subsidiaries are third-party beneficiaries of these Terms and may enforce them.
+To the extent permitted by law, you agree to compensate us for claims, losses, and reasonable legal costs that arise because you broke these Terms or infringed someone else's rights through your use of the App.
 
 ---
 
-## 18. Contact Us
+## 15. Ending These Terms
 
-If you have any questions, concerns, or feedback about these Terms or the App, please contact us at:
+You can stop using the App at any time by uninstalling it. Remember to cancel any subscription through your app store, and to delete your backup if you wish (see our [Account and Data Deletion](account-deletion) page).
+
+We may suspend or end your access to the App if you break these Terms, if we must for legal or security reasons, or if we discontinue the App. Where reasonably possible, we will give you notice. This does not affect any refund or other rights you have under the law or app store policies.
+
+Sections 5, 6, and 11 to 18 continue to apply after these Terms end.
+
+---
+
+## 16. Changes to These Terms
+
+We may update these Terms as the App or the law changes. We will post the new version on this page and update the "Last Updated" date. For significant changes, we will also let you know in the App. If you keep using the App after the changes take effect, the updated Terms apply. If you do not agree, please stop using the App.
+
+---
+
+## 17. Governing Law and Disputes
+
+These Terms are governed by the laws of the Republic of South Africa, without regard to conflict of law rules.
+
+If you have a concern, please contact us first at **support@mintecalc.com**. Most issues can be resolved quickly this way. If we cannot resolve a dispute informally within 60 days, it may be taken to the courts of South Africa.
+
+If you are a consumer, you also keep the protection of the mandatory laws of the country where you live, and you may bring a claim in the courts of that country or complain to your local consumer protection authority.
+
+---
+
+## 18. General
+
+- **Entire agreement:** these Terms and our Privacy Policy are the whole agreement between you and us about the App.
+- **Severability:** if any part of these Terms is found unenforceable, the rest stays in effect.
+- **No waiver:** if we do not enforce a right, we have not given it up.
+- **Assignment:** you may not transfer your rights under these Terms. We may transfer ours, for example as part of a sale of our business, provided your rights are not reduced.
+- **Events beyond our control:** we are not responsible for delays or failures caused by events outside our reasonable control, such as outages of third-party services, internet failures, or natural disasters.
+- **Export and sanctions:** you must comply with all applicable export control and sanctions laws when using the App.
+
+### 18.1 Additional Terms for Apple Devices
+
+If you downloaded the App from the Apple App Store:
+
+- These Terms are between you and us only, not Apple. We, not Apple, are solely responsible for the App and its content.
+- Apple has no obligation to provide maintenance or support for the App.
+- If the App fails to meet any applicable warranty, you may notify Apple, and Apple will refund the purchase price (if any) for the App. To the maximum extent permitted by law, Apple has no other warranty obligation for the App.
+- We, not Apple, are responsible for addressing any claims relating to the App, including product liability claims, claims that the App fails to meet legal or regulatory requirements, and consumer protection or privacy claims.
+- If anyone claims that the App or your use of it infringes their intellectual property rights, we, not Apple, are responsible for investigating, defending, settling, and discharging that claim.
+- You confirm that you are not located in a country subject to a U.S. Government embargo or designated as a "terrorist supporting" country, and that you are not on any U.S. Government list of prohibited or restricted parties.
+- You must comply with any applicable third-party terms (such as your mobile data agreement) when using the App.
+- Apple and its subsidiaries are third-party beneficiaries of these Terms. Once you accept these Terms, Apple has the right to enforce them against you.
+
+### 18.2 Additional Terms for Google Play
+
+If you downloaded the App from Google Play, your use is also subject to the [Google Play Terms of Service](https://play.google.com/about/play-terms/). Google is not a party to these Terms and is not responsible for the App.
+
+---
+
+## 19. Contact Us
 
 **3MD FAMILY (PTY) LTD**  
 Email: support@mintecalc.com  
 Website: https://mintecalc.com
-
----
-
-*These Terms and Conditions are effective as of July 30, 2026.*

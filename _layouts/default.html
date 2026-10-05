@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <style>
+      header nav a { display: block; margin: 0 0 6px; }
+      footer nav a { margin-right: 10px; }
+    </style>
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
+        <p>{{ site.description }}</p>
+        <nav>
+          <a href="{{ "/privacy-policy" | relative_url }}">Privacy Policy</a>
+          <a href="{{ "/terms-and-conditions" | relative_url }}">Terms and Conditions</a>
+          <a href="{{ "/account-deletion" | relative_url }}">Account and Data Deletion</a>
+        </nav>
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer>
+        <p><small>&copy; {{ site.time | date: "%Y" }} 3MD FAMILY (PTY) LTD<br>
+        <a href="mailto:support@mintecalc.com">support@mintecalc.com</a></small></p>
+      </footer>
+    </div>
+  </body>
+</html>

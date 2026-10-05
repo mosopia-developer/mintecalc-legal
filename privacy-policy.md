@@ -1,233 +1,191 @@
 # Privacy Policy
 
-**Last Updated:** July 30, 2026
+**Last Updated:** October 5, 2026
 
-**App Name:** MinteCalc  
-**Company:** 3MD FAMILY (PTY) LTD  
+**App:** MinteCalc  
+**Company:** 3MD FAMILY (PTY) LTD, South Africa  
 **Contact:** support@mintecalc.com  
 **Website:** https://mintecalc.com
 
 ---
 
-## Introduction
+## 1. Summary
 
-Welcome to MinteCalc! This Privacy Policy explains how 3MD FAMILY (PTY) LTD ("we," "us," or "our") collects, uses, discloses, and safeguards your information when you use our mobile application MinteCalc (the "App"). Please read this Privacy Policy carefully.
+- MinteCalc does not have user accounts. You never register or create a password.
+- Your calculations, notes, and settings are stored on your device. We do not operate servers that hold your content, and we cannot read it.
+- Cloud backup is optional. If you use it, you sign in with Google and your backup is saved in a private, hidden folder in **your own Google Drive**.
+- The free version shows ads from Google AdMob. Where the law requires it, we ask for your consent before ads are personalized.
+- Google Analytics is turned on only if you allow it in the App's privacy choices.
+- We do not sell your personal information for money.
 
-By downloading, accessing, or using the App, you agree to the collection and use of information in accordance with this Privacy Policy. If you do not agree with the terms of this Privacy Policy, please do not access or use the App.
-
----
-
-## Information We Collect
-
-### 1. Information You Provide Directly
-
-- **Google Sign-In (optional, for Backup & Restore):** MinteCalc does **not** create username/password accounts of its own. If you choose to use the optional Backup & Restore feature, you sign in with your Google account. Authentication is handled by Google — we never receive, store, or have access to your Google password. When you sign in, a minimal sign-in reference is kept by **Google's Firebase Authentication** service on Google's infrastructure — MinteCalc operates no servers of its own — containing your **email address, display name, profile photo URL, and a unique user ID (UID)**. We use this record solely to keep you signed in across app launches and to associate you with your own backup; it is not used to build a profile of you. See our [Account & Data Deletion](account-deletion) page for how to remove it — including directly in-app via "Delete Data & Sign Out."
-- **User Content:** Any data, notes, calculations, or settings you create within the App are stored **locally on your device** (using platform-specific storage: SharedPreferences on Android, UserDefaults on iOS). If you enable backup, this data is stored in **your own Google Drive account** in a hidden application data folder (`appDataFolder`) — not on our servers.
-- **Payment Information:** If you purchase a Pro Upgrade, payment is processed entirely through the Apple App Store or Google Play Store. We do not directly collect or store your payment card details. Purchase validation is handled by RevenueCat (see "Third-Party Services" below).
-- **Feedback and Support Emails:** If you use the in-app "Send Feedback" or "Report a Bug" options, the App pre-fills an email that includes your app version, device model, and basic app-usage statistics to help us diagnose issues. You can see and edit this information in the email before choosing to send it.
-
-### 2. Information Collected Automatically
-
-When you use the App, we and our service providers may automatically collect certain information, including:
-
-- **Device Information:** Device type, operating system version, unique device identifiers (including advertising identifiers, where permitted), and mobile network information.
-- **Usage Data:** Information about how you interact with the App, including features used, session duration, and in-app actions.
-- **Crash Reports and Diagnostics:** Technical information about crashes and performance issues. If you are signed in for backup, crash reports may include a pseudonymous user identifier (your Firebase UID) — never your email address — to help us investigate account-related issues such as backup failures.
-- **Push Notification Tokens:** If you allow notifications, a push registration token is created by Firebase Cloud Messaging so the App can receive notifications (see "Notifications" below).
-
-### 3. Information We Do NOT Collect
-
-- **Calculation Data:** We do not collect, store, or transmit any of your calculations, notes, or results to our servers.
-- **Currency Conversion History:** We do not track or store which currencies you convert or the amounts.
-- **Note Calculator Data:** Your item names, prices, quantities, and calculations remain entirely on your device (or in your own Google Drive backup if enabled).
-- **Precise Location:** The App does not request or collect precise (GPS) location data.
-
-### 4. Information Collected by Third-Party Services
-
-We use the following third-party services that may collect information:
-
-#### Firebase Authentication (Google)
-Used only if you sign in for Backup & Restore. Stores your email address, display name, profile photo URL, and a unique user ID so you stay signed in across app launches. For more information, see [Firebase Privacy and Security](https://firebase.google.com/support/privacy).
-
-#### Google Analytics for Firebase
-We use Google Analytics for Firebase to understand how users interact with our App. This service may collect:
-- App usage patterns and user behavior (e.g., which features are used)
-- Device and demographic information
-- Session and engagement data
-
-For more information, please review [Google's Privacy Policy](https://policies.google.com/privacy).
-
-#### Firebase Crashlytics
-We use Firebase Crashlytics to collect crash reports and diagnostic data to improve App stability. This service collects:
-- Crash logs and stack traces
-- Device state at the time of crash
-- Device identifiers and, for signed-in users, a pseudonymous user ID
-
-For more information, please review [Firebase Privacy and Security Documentation](https://firebase.google.com/support/privacy).
-
-#### Firebase Cloud Messaging (Push Notifications)
-If you grant notification permission, Firebase Cloud Messaging generates a push registration token for your device and the App may subscribe you to broad notification topics (such as "all users", "free users", or "pro users") so we can send service and feature announcements. Topics are based only on whether you have a Pro subscription — no other profiling is involved. You can withdraw notification permission at any time in your device settings.
-
-#### Firebase Remote Config
-We use Firebase Remote Config to deliver configuration settings to the App (for example, feature switches and notification schedules) without requiring an app update. This service uses Firebase installation identifiers and does not collect personal content.
-
-#### Currency Exchange Rate Delivery (Firebase Hosting)
-Currency exchange rates are delivered to the App as static files from our own Firebase Hosting endpoint. Fetching these files is a standard web request (your IP address is visible to the hosting provider, as with any web download) and requires no personal information.
-
-#### ExchangeRate-API
-The underlying currency exchange rates are sourced from ExchangeRate-API ([https://www.exchangerate-api.com](https://www.exchangerate-api.com)). Your device does not communicate with ExchangeRate-API directly, and we do not share any of your personal information with them. For more information, please review [ExchangeRate-API's Terms of Use](https://www.exchangerate-api.com/terms).
-
-#### Google AdMob
-We use Google AdMob to display advertisements in the App (for non-Pro users). AdMob may collect:
-- Advertising identifiers
-- Device information
-- Coarse location data (if permitted)
-- User interaction with advertisements
-
-AdMob may use this information to serve personalized advertisements. For more information about how Google uses your data for advertising, please visit [Google's Advertising Privacy Policy](https://policies.google.com/technologies/ads).
-
-**Rewarded Ads:** Some optional features can be temporarily unlocked by voluntarily choosing to watch a rewarded advertisement. These ads are only shown when you explicitly choose to watch them and are served through the same AdMob service described above.
-
-**App Tracking Transparency (iOS):** On iOS, the App asks for your permission through Apple's App Tracking Transparency prompt before the advertising identifier is used for tracking. If you decline, you will still see ads, but they will not be personalized using your advertising identifier.
-
-**Your Ad Choices:** You can opt out of personalized advertising by adjusting your device settings (Android: "Delete advertising ID" / iOS: App Tracking Transparency) or by visiting [Google's Ads Settings](https://adssettings.google.com/).
-
-#### RevenueCat
-We use RevenueCat to manage and validate in-app purchases and subscriptions. When you make (or restore) a purchase, RevenueCat receives your purchase receipt/token from the app store, a randomly generated app user identifier, and basic device information in order to confirm your entitlement to Pro features across sessions and devices. RevenueCat does **not** receive your name, email address, or payment card details from us. For more information, please review [RevenueCat's Privacy Policy](https://www.revenuecat.com/privacy).
+The rest of this policy explains the details.
 
 ---
 
-## Google Drive Integration
+## 2. Who We Are
 
-### Backup and Restore
+This Privacy Policy explains how 3MD FAMILY (PTY) LTD ("we," "us," or "our") handles information when you use the MinteCalc mobile application (the "App") on iOS or Android. We are the "controller" (or "responsible party") of the personal information described here. You can reach us at **support@mintecalc.com**.
 
-MinteCalc offers the ability to back up and restore your App data using your own Google Drive account. Please note:
-
-- **User Control:** You have full control over your backups. Backup files are stored in your personal Google Drive account, not on our servers.
-- **Limited Scope:** The App requests only the `drive.appdata` scope, which grants access to a hidden, app-specific data folder. We **cannot** see, read, or modify any other files in your Google Drive.
-- **Data Access:** We only access this hidden folder to create, read, and delete the backup files you manage through the App.
-- **Authentication:** Google Drive integration requires you to authenticate with your Google account. We do not store your Google account credentials.
-- **Data Responsibility:** Since backups are stored in your personal Google Drive, you are responsible for managing and securing your Google account. We are not responsible for any data loss or unauthorized access to your Google Drive account.
-
-### Google API Services — Limited Use Disclosure
-
-MinteCalc's use and transfer of information received from Google APIs adheres to the [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the **Limited Use** requirements. Specifically: data obtained through Google Sign-In and the Google Drive API is used only to provide the user-facing Backup & Restore feature; it is never sold, never used for advertising, and never transferred to third parties except as necessary to provide that feature or as required by law.
-
-For more information about Google Drive's privacy practices, please review [Google's Privacy Policy](https://policies.google.com/privacy).
+By using the App, you acknowledge that you have read this policy. Where the law requires your consent for a particular activity, we ask for it separately, and you can withdraw it at any time.
 
 ---
 
-## Notifications
+## 3. Information We Collect
 
-The App can send two kinds of notifications, both optional:
+### 3.1 Content You Create (stays with you)
 
-- **Local (scheduled) notifications** — for example, backup reminders, feature tips, and milestone messages. These are scheduled on your device; the schedule is controlled by remote configuration.
-- **Push notifications** — occasional service or feature announcements delivered via Firebase Cloud Messaging.
+Your calculations, calculation history, notes (item names, prices, and quantities), and settings are stored **locally on your device**. We never receive this content.
 
-Notifications are only sent if you grant notification permission, and you can withdraw permission at any time in your device settings. Where available, individual notification categories can also be adjusted in the App's settings and (on Android) per-channel in system settings.
+Your content can leave your device only in ways you choose:
 
----
+- **Google Drive backup (optional):** saved in a hidden app data folder (`appDataFolder`) in your own Google Drive. See Section 5.
+- **Backup files you export:** saved to a location you pick, such as your device's files or a cloud service you choose. We do not receive these files.
+- **Sharing:** if you share a result using your device's share menu, it goes only to the app or person you choose.
+- **Device backups:** your phone's own backup system (iCloud or Android backup) may include App data, under the terms of Apple or Google.
 
-## How We Use Your Information
+### 3.2 Google Sign-In (optional, for Backup & Restore only)
 
-We use the information we collect for the following purposes:
+If you turn on cloud backup, you sign in with Google. Google handles the sign-in, so we never see your Google password. Google's Firebase Authentication service then keeps a minimal **sign-in reference**: your email address, display name, profile photo URL, and a unique user ID. It is used only to keep you signed in and connect you to your own backup. You can remove it at any time with **"Delete Data & Sign Out"** in the App (see our [Account and Data Deletion](account-deletion) page).
 
-- **To Provide and Maintain the App:** Ensuring the App functions correctly and providing core features, including keeping you signed in for Backup & Restore.
-- **To Improve the App:** Analyzing usage patterns and crash data to enhance performance and user experience.
-- **To Process Transactions:** Validating purchases and managing Pro entitlements (subscriptions and lifetime purchases).
-- **To Display Advertisements:** Serving ads to non-Pro users through Google AdMob.
-- **To Send Notifications:** Delivering optional reminders, tips, and announcements if you have granted permission.
-- **To Communicate with You:** Responding to support inquiries and sending important updates about the App.
-- **To Comply with Legal Obligations:** Fulfilling legal requirements and protecting our rights.
+### 3.3 Information Collected Automatically
 
----
+| Category | What it includes | Purpose |
+|----------|------------------|---------|
+| Crash and diagnostic data | Crash logs, stack traces, device model, OS version, app version, and basic app state. If you are signed in for backup, backup errors may include your pseudonymous user ID (never your email address). | To find and fix bugs |
+| Analytics data (only with your permission) | Which features are used, session length, in-app events, device and app version, approximate region | To understand and improve the App |
+| Advertising data (free version) | Advertising identifier (where permitted), device information, IP address, approximate location derived from IP, and ad interactions | To show ads, measure them, and prevent ad fraud |
+| Purchase data | App store receipt, a random app user ID, and basic device information | To confirm your Pro purchase and restore it on other devices |
+| Notification token | A push token from Firebase Cloud Messaging, if you allow notifications | To deliver notifications |
+| App configuration | Firebase installation ID | To deliver settings and features without an app update |
 
-## Pro Upgrade (Subscriptions and Lifetime Purchases)
+The App does **not** request access to your precise (GPS) location, contacts, photos, camera, or microphone.
 
-When you purchase a Pro Upgrade, your payment is processed through the respective app store (Apple App Store or Google Play Store). We do not directly collect or store your payment card details. Purchase validation and entitlement management are performed by RevenueCat as described above. Please review the privacy policies of [Apple](https://www.apple.com/legal/privacy/) and [Google](https://policies.google.com/privacy) for information about how they handle payment data.
+### 3.4 Support and Feedback Emails
 
-Pro subscribers enjoy an ad-free experience, and data collection related to advertising (AdMob) does not apply while an active Pro entitlement is present.
-
----
-
-## Data Sharing and Disclosure
-
-We do not sell your personal information, and we do not share it with third parties for their own marketing purposes. We may share information in the following circumstances:
-
-- **Service Providers (Processors):** Google/Firebase (authentication, analytics, crash reporting, notifications, remote configuration, hosting), Google AdMob (advertising), and RevenueCat (purchase validation) process data on our behalf as described in this policy.
-- **Legal Requirements:** We may disclose information if required by law, regulation, legal process, or governmental request.
-- **Protection of Rights:** We may disclose information to protect our rights, privacy, safety, or property, or that of our users or the public.
-- **Business Transfers:** In the event of a merger, acquisition, or sale of assets, information may be transferred as part of that transaction.
+If you use "Send Feedback" or "Report a Bug," the App opens an email for you to review before sending. It includes a diagnostics file with your app version, device model, operating system, screen size, language, time zone, region setting, connection type, free or Pro status, and simple usage counts (such as number of app launches). You can read, edit, or remove this information before sending. We use what you send only to answer you and fix problems.
 
 ---
 
-## Data Security
+## 4. How We Use Information, and Our Legal Bases
 
-We implement reasonable security measures to protect your information from unauthorized access, alteration, disclosure, or destruction. However, no method of transmission over the Internet or electronic storage is 100% secure. While we strive to protect your personal information, we cannot guarantee its absolute security.
+| Purpose | Legal basis (where GDPR, UK GDPR, or similar laws apply) |
+|---------|------------------|
+| Providing the App and its features, including Backup & Restore and Pro | Performance of a contract with you |
+| Crash reporting, security, and fixing bugs | Our legitimate interest in a stable and secure App |
+| Analytics | Your consent |
+| Personalized ads and use of your advertising identifier | Your consent, where required by law |
+| Non-personalized ads in the free version | Our legitimate interest in funding the free version |
+| Notifications | Your consent (device permission) |
+| Answering support requests | Our legitimate interest in helping you, or contract |
+| Accounting, tax, and legal compliance | Legal obligation |
 
----
-
-## Data Retention
-
-- **Local Data (on your device):** Stored until you clear the App's storage or uninstall the App.
-- **Google Drive Backup (optional):** Stored in your personal Google Drive account until you delete it using the **"Delete Data & Sign Out"** option in the App (Settings → Backup & Restore), or remove the App's access at [https://myaccount.google.com/permissions](https://myaccount.google.com/permissions).
-- **Sign-In Reference (email, name, photo URL, UID — held by Google's Firebase Authentication):** Retained while you remain signed in. Removed when you use **"Delete Data & Sign Out"** in the App, or on request — see our [Account & Data Deletion](account-deletion) page.
-- **Analytics & Crash Data:** Retained by Firebase Analytics and Crashlytics according to their standard retention periods, after which it is deleted or aggregated.
-- **Purchase Records:** Retained by the app stores and RevenueCat as needed to maintain your entitlement (e.g., to restore purchases on a new device) and to meet legal/accounting obligations.
-
----
-
-## Children's Privacy
-
-The App is not directed at children under the age of 13 (or the applicable age of digital consent in your jurisdiction), and we do not knowingly collect personal information from children. If we become aware that we have inadvertently collected personal information from a child, we will take steps to delete such information promptly.
+We do not use your information to make automated decisions that have legal or similarly significant effects on you.
 
 ---
 
-## Your Rights and Choices
+## 5. Google Drive Backup and Google API Data
 
-Depending on your jurisdiction (including under the GDPR, UK GDPR, CCPA/CPRA, and South Africa's POPIA), you may have rights regarding your personal information, including:
-
-- **Access:** Request access to the personal information we hold about you.
-- **Correction:** Request correction of inaccurate or incomplete information.
-- **Deletion:** Request deletion of your personal information (see [Account & Data Deletion](account-deletion) for self-service options).
-- **Portability:** Request a copy of information you provided in a portable format.
-- **Objection / Restriction:** Object to or request restriction of certain processing.
-- **Opt-Out:** Opt out of personalized advertising (see "Your Ad Choices" above). We do not sell or "share" personal information as defined by the CCPA/CPRA.
-
-To exercise these rights, please contact us at **support@mintecalc.com**. We will respond within the timeframe required by applicable law. You will not be discriminated against for exercising any of these rights.
+- **Limited access:** the App requests only the `drive.appdata` permission. It can create, read, and delete its own backup files in a hidden folder, and **cannot see any other files in your Google Drive**.
+- **Your storage:** backups live in your Google account, not on our servers. You control them and can delete them at any time.
+- **Limited Use:** MinteCalc's use and transfer of information received from Google APIs adheres to the [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the Limited Use requirements. Data from Google Sign-In and the Google Drive API is used only to provide Backup & Restore. It is never sold, never used for advertising, and never transferred to others except as needed to provide that feature or as required by law.
 
 ---
 
-## International Data Transfers
+## 6. Advertising, Consent, and Your Choices
 
-Your information may be transferred to and processed in countries other than your country of residence (for example, on Google and RevenueCat infrastructure). These countries may have data protection laws that differ from your country. Where required, transfers rely on appropriate safeguards such as standard contractual clauses implemented by our service providers.
+- **Pro users:** see no ads, and no advertising data is collected while Pro is active.
+- **Consent where required:** in the European Economic Area, the United Kingdom, Switzerland, and other places where the law requires it, the App uses Google's consent tool to ask for your choices before personalized ads are shown. You can change your choices at any time under **Settings → Privacy choices** (shown where this option applies).
+- **iOS:** the App uses Apple's App Tracking Transparency prompt. If you choose "Ask App Not to Track," your advertising identifier is not used for tracking.
+- **Android:** you can reset or delete your advertising ID in your device settings.
+- **Rewarded ads:** some optional features can be unlocked for a limited time by choosing to watch an ad. These ads appear only when you ask for them.
+
+You will still see ads in the free version if you decline personalization, but they will be less relevant to you. Learn more in [Google's advertising policies](https://policies.google.com/technologies/ads).
 
 ---
 
-## Changes to This Privacy Policy
+## 7. Who We Share Information With
 
-We may update this Privacy Policy from time to time. We will notify you of material changes by posting the new Privacy Policy at this address and updating the "Last Updated" date, and, where appropriate, through an in-app notice. Your continued use of the App after any changes constitutes your acceptance of the updated Privacy Policy.
+We do not sell personal information for money. We share information only with these service providers, who process it for us:
+
+| Provider | Purpose | Privacy information |
+|----------|---------|---------------------|
+| Google Firebase (Authentication, Analytics, Crashlytics, Cloud Messaging, Remote Config, Hosting) | Sign-in, analytics, crash reports, notifications, configuration, and delivery of currency rates | [Firebase privacy](https://firebase.google.com/support/privacy) |
+| Google AdMob | Ads in the free version | [Google privacy policy](https://policies.google.com/privacy) |
+| Google Drive API | Your optional backup | [Google privacy policy](https://policies.google.com/privacy) |
+| RevenueCat | Purchase and subscription validation | [RevenueCat privacy policy](https://www.revenuecat.com/privacy) |
+| Apple App Store and Google Play | App distribution and payments | [Apple](https://www.apple.com/legal/privacy/), [Google](https://policies.google.com/privacy) |
+
+**Currency rates:** rates come from [ExchangeRate-API](https://www.exchangerate-api.com). Our own systems fetch them and publish them to the App through Firebase Hosting, so your device never contacts ExchangeRate-API and none of your information is shared with them. Downloading the rates is an ordinary web request, so the hosting provider sees your IP address.
+
+**Payments:** all payments are handled by Apple or Google. We never see your card details.
+
+We may also disclose information if required by law or legal process, to protect the rights, safety, or property of our users, the public, or us, or as part of a merger, acquisition, or sale of assets (in which case this policy will continue to apply to your information).
+
+**United States privacy laws:** in the free version, AdMob may use advertising identifiers and similar data to personalize ads. Some U.S. state laws (such as California's CCPA/CPRA) may treat this as "sharing" for targeted advertising, or as a "sale." You can opt out at any time through your device's ad settings, the App's privacy choices where shown, or by upgrading to Pro.
 
 ---
 
-## Contact Us
+## 8. How Long We Keep Information
 
-If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
+| Information | How long |
+|-------------|----------|
+| Content on your device | Until you delete it, clear the App's storage, or uninstall the App |
+| Google Drive backup | Until you delete it with "Delete Data & Sign Out" or remove it from Google Drive yourself |
+| Sign-in reference | Until you use "Delete Data & Sign Out," or within 30 days of an email request |
+| Crash reports | Up to 90 days, under Firebase Crashlytics' standard retention |
+| Analytics data | Under Google Analytics' retention settings, and no longer than 14 months for detailed event data |
+| Purchase records | As long as needed to keep your Pro access working, and as required for accounting and tax purposes |
+| Support emails | As long as needed to help you and keep reasonable records of the request |
+
+---
+
+## 9. International Transfers
+
+We are based in South Africa, and our service providers (mainly Google and RevenueCat) process information in the United States and other countries. These countries may have different data protection laws from yours. Where required, transfers are protected by appropriate safeguards, such as the European Commission's Standard Contractual Clauses used by our providers.
+
+---
+
+## 10. Security
+
+Information sent between the App and our service providers is encrypted in transit. Backups are protected by your Google account. No system is completely secure, so please protect your devices and your Google account with strong passwords and two-step verification.
+
+---
+
+## 11. Children
+
+The App is not directed at children under 13, and we do not knowingly collect personal information from them. In some countries, the age for consenting to online services is higher (up to 16 in parts of Europe). If you are below that age, please use the App only with your parent's or guardian's permission. If you believe a child has given us personal information, contact us and we will delete it.
+
+---
+
+## 12. Your Rights
+
+Depending on where you live, you may have the right to:
+
+- **access** the personal information we hold about you;
+- **correct** inaccurate information;
+- **delete** your information (see our [Account and Data Deletion](account-deletion) page for the quick in-app option);
+- **receive a copy** of your information in a portable format;
+- **object to** or **restrict** certain processing;
+- **withdraw consent** at any time, without affecting earlier processing;
+- **opt out** of targeted advertising, "sales," or "sharing" of personal information; and
+- **not be discriminated against** for using these rights.
+
+These rights come from laws such as the EU and UK GDPR, the California Consumer Privacy Act and other U.S. state privacy laws, Brazil's LGPD, Canada's PIPEDA, South Africa's POPIA, and similar laws worldwide.
+
+**How to make a request:** email **support@mintecalc.com**. We may need to confirm your identity first, for example by asking you to write from the Google account you used to sign in. We will respond within the time the law requires (usually within 30 days). You may also use an authorized agent where your local law allows it. If we decline your request, you can ask us to reconsider by replying to our response.
+
+**Complaints:** you can complain to your local data protection authority. Examples include your EU or EEA supervisory authority, the UK Information Commissioner's Office, and South Africa's [Information Regulator](https://inforegulator.org.za). We would appreciate the chance to resolve your concern first.
+
+---
+
+## 13. Changes to This Policy
+
+We may update this policy as the App changes or the law requires. We will post the new version on this page and update the "Last Updated" date. For significant changes, we will also let you know in the App.
+
+---
+
+## 14. Contact Us
 
 **3MD FAMILY (PTY) LTD**  
 Email: support@mintecalc.com  
 Website: https://mintecalc.com
-
----
-
-## Disclaimer
-
-THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, 3MD FAMILY (PTY) LTD DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
-
-3MD FAMILY (PTY) LTD DOES NOT WARRANT THAT THE APP WILL BE UNINTERRUPTED, ERROR-FREE, OR SECURE, OR THAT ANY DEFECTS WILL BE CORRECTED. YOUR USE OF THE APP IS AT YOUR SOLE RISK.
-
-IN NO EVENT SHALL 3MD FAMILY (PTY) LTD BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR RELATED TO YOUR USE OF OR INABILITY TO USE THE APP, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
-
----
-
-*This Privacy Policy is effective as of July 30, 2026.*
