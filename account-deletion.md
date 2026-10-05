@@ -13,7 +13,7 @@ MinteCalc does not have user accounts, and we do not operate servers that hold y
 ## Quick Answer
 
 - **Never signed in with Google?** Your data exists only on your device. Uninstall the App (or clear its storage on Android) and it is gone.
-- **Signed in for Backup & Restore?** Open **Settings → Backup & Restore** and tap **"Delete Data & Sign Out."** This deletes your cloud backup and your sign-in reference, and signs you out. Then uninstall the App if you also want to remove the data on your device.
+- **Signed in for Google Drive Sync?** Open **Settings → Backup & Restore → Google Drive Sync** and tap **"Delete Data & Sign Out."** This deletes your cloud backup and your sign-in reference, and signs you out. Then uninstall the App if you also want to remove the data on your device.
 - **No longer have the App?** Email us (see Step 3) and we will delete it for you.
 
 ---
@@ -23,7 +23,7 @@ MinteCalc does not have user accounts, and we do not operate servers that hold y
 | Data | Where it is stored | How to delete it |
 |------|-------------------|------------------|
 | Calculations, notes, and settings | On your device | Uninstall the App, or clear its storage (Step 2) |
-| Cloud backup (optional) | A hidden folder in your own Google Drive | "Delete Data & Sign Out" (Step 1) |
+| Google Drive backup (optional, Pro) | A hidden folder in your own Google Drive | "Delete Data & Sign Out" (Step 1) |
 | Sign-in reference: email, name, profile photo URL, and user ID (optional) | Google Firebase Authentication | "Delete Data & Sign Out" (Step 1), or email us (Step 3) |
 | Purchase record: anonymous ID and app store receipt | RevenueCat | Email us (Step 3) |
 | Payment and subscription history | Apple or Google | Controlled by Apple or Google |
@@ -34,16 +34,19 @@ MinteCalc does not have user accounts, and we do not operate servers that hold y
 ## Step 1: Delete Your Cloud Backup and Sign-In Reference (in the App)
 
 1. Open **MinteCalc**.
-2. Go to **Settings → Backup & Restore**.
-3. Tap **"Delete Data & Sign Out"** at the bottom of the screen, and confirm.
+2. Go to **Settings → Backup & Restore → Google Drive Sync**.
+3. Tap **"Delete Data & Sign Out"** at the bottom of the screen.
+4. In the **"Delete Account & Storage?"** message, tap **"Delete & Sign Out."**
 
-This immediately and permanently:
+This permanently:
 
 - deletes your MinteCalc backup files from your Google Drive;
 - deletes your sign-in reference from Google Firebase Authentication; and
-- signs you out of Google in the App.
+- signs you out of Google in the App and turns off automatic backup.
 
-You need an internet connection for this step. Backup & Restore will be unavailable until you sign in again.
+You need an internet connection for this step. If Google asks you to choose your account again, do so to confirm. If the App says your data was deleted but removing your sign-in reference failed, or you can no longer sign in because your Pro access has ended, email us (Step 3) and we will remove it for you.
+
+This step does not remove the App's permission to your Google account. To remove that too, see Step 4.
 
 ---
 
@@ -84,7 +87,7 @@ Deleting your data does not cancel a subscription or remove your Pro purchase. P
 
 1. Visit [myaccount.google.com/permissions](https://myaccount.google.com/permissions).
 2. Select **MinteCalc**.
-3. Select **Remove access**.
+3. Remove its access. Depending on your account's layout, Google calls this **"Remove access"** or **"Delete all connections you have with MinteCalc."**
 
 ---
 

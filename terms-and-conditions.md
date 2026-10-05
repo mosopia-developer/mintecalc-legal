@@ -15,7 +15,7 @@
 
 These Terms and Conditions ("Terms") are an agreement between you and 3MD FAMILY (PTY) LTD ("we," "us," or "our") about your use of the MinteCalc mobile application (the "App"). By downloading or using the App, you agree to these Terms. If you do not agree, please do not use the App.
 
-Our [Privacy Policy](privacy-policy) explains how we handle your information and forms part of these Terms.
+Our [Privacy Policy](privacy-policy) explains how we handle your information. Please read it too.
 
 **Your rights as a consumer:** if you are a consumer, the mandatory consumer protection laws of the country where you live still apply to you. Nothing in these Terms takes away rights you have under those laws.
 
@@ -60,19 +60,20 @@ Please keep your own backups. We are not responsible for loss of Your Content ca
 
 The App is a general-purpose tool. We work hard to make it accurate, but we do not guarantee that every calculation, conversion, or result will be correct, complete, or suitable for your purpose. **Always check important results yourself**, especially for taxes, loans, investments, business, academic, medical, legal, or safety-related decisions.
 
-### 6.2 Currency Exchange Rates
+### 6.2 Currency and Cryptocurrency Rates
 
-Exchange rates are provided **for general information and reference only**. They come from a third-party provider, are updated periodically rather than in real time, and may be delayed, cached while you are offline, inaccurate, or unavailable. They are not the rates a bank or exchange service will give you.
+Exchange rates, including cryptocurrency prices such as Bitcoin, are provided **for general information and your own personal reference only**. They come from our third-party data provider, [FXRatesAPI](https://fxratesapi.com), are updated periodically rather than in real time, and may be delayed, cached while you are offline, inaccurate, or unavailable. They are not the rates a bank or exchange service will give you.
 
 - Do not rely on them for trading, investment, or financial transactions.
 - Nothing in the App is financial, investment, or tax advice.
 - Always confirm rates with your bank or a licensed currency provider before making a transaction.
+- Rate data is licensed to us for display in the App only. You may not copy, store, publish, or redistribute it outside the App.
 
 ---
 
-## 7. Google Sign-In and Google Drive Backup
+## 7. Google Sign-In and Google Drive Sync
 
-Backup & Restore is optional. If you use it:
+Google Drive Sync is an optional Pro feature. If you use it:
 
 - you allow the App to create, read, and delete its own backup files in a hidden folder in your Google Drive, and nothing else;
 - Google keeps a minimal sign-in reference (email address, name, profile photo URL, and user ID) so you stay signed in, as described in our [Privacy Policy](privacy-policy);
@@ -87,9 +88,9 @@ We are not responsible for interruptions or failures of Google's services. You c
 
 ### 8.1 What You Get
 
-MinteCalc Pro removes ads and unlocks premium features, such as Backup & Restore, custom app icons, and extra personalization options. Pro is available as:
+MinteCalc Pro removes ads and unlocks premium features, such as Google Drive Sync, custom app icons, extra note display options, and personalization options. Pro is available as:
 
-- **a subscription**, which renews automatically for the period you choose; or
+- **a monthly or annual subscription**, which renews automatically; or
 - **a lifetime purchase**, which is a one-time payment for Pro access for as long as we make the App available.
 
 We may improve or change Pro features over time. We will not materially reduce the core Pro benefits you paid for during a paid subscription period.
@@ -116,7 +117,7 @@ We may change subscription prices. A new price applies only from your next billi
 
 The free version of the App shows ads provided by Google AdMob. How ads use your information, and how to change your choices, is explained in our [Privacy Policy](privacy-policy).
 
-Some optional features can be unlocked for a limited time by choosing to watch a rewarded ad:
+Some optional cosmetic features (such as accent colors, display fonts, and note styles) can be unlocked for a limited time by choosing to watch a rewarded ad:
 
 - the unlock is temporary and ends automatically;
 - watching an ad is not a purchase and does not give you any lasting right to the feature; and
@@ -128,7 +129,7 @@ Settings you applied during an unlock may stay in place after it ends, but chang
 
 ## 10. Third-Party Services
 
-The App relies on services from third parties, including Google (Firebase, AdMob, Google Sign-In, and Google Drive), RevenueCat, Apple, and our currency rate provider, [ExchangeRate-API](https://www.exchangerate-api.com). Their services are covered by their own terms and privacy policies. We are not responsible for their availability, accuracy, or practices. The full list, and what each one does, is in our [Privacy Policy](privacy-policy).
+The App relies on services from third parties, including Google (Firebase, AdMob, Google Sign-In, Google Drive, and Google Fonts), RevenueCat, Apple, and our currency rate provider, [FXRatesAPI](https://fxratesapi.com). Their services are covered by their own terms and privacy policies. We are not responsible for their availability, accuracy, or practices. The full list, and what each one does, is in our [Privacy Policy](privacy-policy).
 
 ---
 
@@ -194,7 +195,7 @@ If you are a consumer, you also keep the protection of the mandatory laws of the
 
 ## 18. General
 
-- **Entire agreement:** these Terms and our Privacy Policy are the whole agreement between you and us about the App.
+- **Entire agreement:** these Terms are the whole agreement between you and us about the App.
 - **Severability:** if any part of these Terms is found unenforceable, the rest stays in effect.
 - **No waiver:** if we do not enforce a right, we have not given it up.
 - **Assignment:** you may not transfer your rights under these Terms. We may transfer ours, for example as part of a sale of our business, provided your rights are not reduced.
