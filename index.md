@@ -23,7 +23,5 @@ Official legal documents for **MinteCalc**, the smart calculator, expense notepa
 ## Contact
 
 **3MD FAMILY (PTY) LTD**  
-Registration Number: 2024/568768/07  
-Registered Office: 8 Scholtz Street, Musina, Limpopo, 0900, South Africa  
 Email: [support@mintecalc.com](mailto:support@mintecalc.com)  
 Website: [mintecalc.com](https://mintecalc.com)

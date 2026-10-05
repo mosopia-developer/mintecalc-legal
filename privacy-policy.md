@@ -3,9 +3,7 @@
 **Last Updated:** October 5, 2026
 
 **App:** MinteCalc  
-**Company:** 3MD FAMILY (PTY) LTD, a private company registered in South Africa  
-**Registration Number:** 2024/568768/07  
-**Registered Office:** 8 Scholtz Street, Musina, Limpopo, 0900, South Africa  
+**Company:** 3MD FAMILY (PTY) LTD, South Africa  
 **Contact:** support@mintecalc.com  
 **Website:** https://mintecalc.com
 
@@ -26,7 +24,7 @@ The rest of this policy explains the details.
 
 ## 2. Who We Are
 
-This Privacy Policy explains how 3MD FAMILY (PTY) LTD ("we," "us," or "our") handles information when you use the MinteCalc mobile application (the "App") on iOS or Android. We are the "controller" (or "responsible party") of the personal information described here. You can reach us, including our Information Officer under South Africa's POPIA, at **support@mintecalc.com**, or by post at our registered office: 8 Scholtz Street, Musina, Limpopo, 0900, South Africa.
+This Privacy Policy explains how 3MD FAMILY (PTY) LTD ("we," "us," or "our") handles information when you use the MinteCalc mobile application (the "App") on iOS or Android. We are the "controller" (or "responsible party") of the personal information described here. You can reach us, including our Information Officer under South Africa's POPIA, at **support@mintecalc.com**.
 
 By using the App, you acknowledge that you have read this policy. Where the law requires your consent for a particular activity, we ask for it separately, and you can withdraw it at any time.
 
@@ -204,7 +202,5 @@ We may update this policy as the App changes or the law requires. We will post t
 ## 14. Contact Us
 
 **3MD FAMILY (PTY) LTD**  
-Registration Number: 2024/568768/07  
-Registered Office: 8 Scholtz Street, Musina, Limpopo, 0900, South Africa  
 Email: support@mintecalc.com  
 Website: https://mintecalc.com
